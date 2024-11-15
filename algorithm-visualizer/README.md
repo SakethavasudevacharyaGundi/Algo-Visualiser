@@ -1,4 +1,12 @@
 # Algorithm Visualizer
-
-A web app to visualize popular algorithms like Bubble Sort, Merge Sort and Dijkstra's Pathfinding.
-
+- Algorithm Visualizer is a web application designed to help users understand and visualize popular algorithms.
+- This project includes visualizations for various sorting algorithms such as:
+    - Bubble Sort
+    - Merge Sort
+    - Quick Sort
+    - And more
+- Additionally, it covers standard algorithms related to data structures, including:
+    - Dijkstra's Pathfinding
+    - Depth-First Search
+    - Breadth-First Search
+- By providing a visual representation of these algorithms, the application aims to make learning and understanding complex algorithms easier and more intuitive.
